@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* main {
+    /* min-height: 90vh;
+    max-width: 1280px;
+    margin: auto;
+    padding: 15px; */
+
+main{
+    margin: auto;
+    padding: 15px;
+}
+.bg-url{
+    background-image: url('./assets/images/signUp.jpg');
+}
